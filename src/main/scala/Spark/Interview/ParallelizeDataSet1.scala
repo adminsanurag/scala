@@ -4,7 +4,7 @@ import org.apache.spark.sql.SparkSession
 import org.apache.log4j._
 import org.apache.spark.SparkContext
 
-object ParallelizeDataSet {
+object ParallelizeDataSet1 {
 
 // Create aSpark RDD using Parallelize
 
